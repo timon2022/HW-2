@@ -84,7 +84,7 @@ margin: 0 0 25px;
 
 .frameworks-list {
     /* Стили для маркированного списка во второй секции */
-    padding: 0 30px 0;
+    padding: 0 20px 0;
     list-style: none;
     list-style-image: url(./source/Vector1.png); 
     
@@ -146,17 +146,18 @@ table {
     /* Стили для таблицы */
     border: 1px;
     border-collapse:collapse;
+    font-size: 14px;
 }
 
 th,td{
     /* Стили для ячеек таблицы */
     font-weight: 700;
-font-size: 14px;
-text-align: center;
+
+text-align: left;
 
 padding-top: 12px;
 padding-bottom: 11px;
-padding: 12px 100% 11px 15px ;
+padding: 12px 15px ;
 }
 td {   
 font-weight: 400;
