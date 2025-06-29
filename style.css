@@ -153,6 +153,7 @@ table {
 th,td{
     /* Стили для ячеек таблицы */
     font-weight: 700;
+        padding: 12px 15px;
 
 text-align: left;
 
